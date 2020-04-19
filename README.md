@@ -4,7 +4,7 @@ Dieses Repository enthält eine:
 <ul>
   <li> Die von conda verwendete Standardkonfigurationsdatei'environment.yml', die eine Python umgebung installiert</li>
   <li> Jupyter Notebook mit der Musterlösung  'Decision Trees Und Random Forests Projekt Musterloesung.ipynb'</li>
-  <li> Daten für die Ausführung der Übungsaufgabe 'loan_data.csv' </li>
+  <li> Daten für die Ausführung des Projekts 'loan_data.csv' </li>
  </ul>
  
 <b>Plattform:</b>\
