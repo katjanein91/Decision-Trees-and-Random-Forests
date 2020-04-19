@@ -2,7 +2,7 @@
 
 Dieses Repository enthält eine:
 <ul>
-  <li> Dependency-Datei um ein Docker Image zu erzeugen 'environment.yml'</li>
+  <li> Die von conda verwendete Standardkonfigurationsdatei'environment.yml', die eine Python umgebung installiert</li>
   <li> Jupyter Notebook mit der Musterlösung  'Decision Trees Und Random Forests Projekt Musterloesung.ipynb'</li>
   <li> Daten für die Ausführung der Übungsaufgabe 'loan_data.csv' </li>
  </ul>
