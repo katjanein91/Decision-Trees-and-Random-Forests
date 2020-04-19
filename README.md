@@ -16,7 +16,7 @@ Die Übungsaufgabe, Musterlösunge und die Daten stammen aus dem Udemy- Kurs <a 
 <b>Begleitende Literatur:</b>\
 <a href = http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf>"Introduction to Statistical Learning" von Gareth James</a>
 
-# Binder Badge Decision Trees Und Random Forests Projekt Musterloesung.ipynb
+# Binder Badge Decision Trees Und Random Forests
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Decision-Trees-and-Random-Forests/master?filepath=Decision%20Trees%20Und%20Random%20Forests%20Projekt%20Musterloesung.ipynb)
 
